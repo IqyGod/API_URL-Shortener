@@ -16,3 +16,5 @@ Using body parser to parse POST request, and store it into a variable.
   
 - POST / GET request: 
 POST will insert data into db, GET will retrieve matched information.
+
+  ![image](https://user-images.githubusercontent.com/99662300/169946361-f092a02e-52e5-4b64-81c2-d71e6360a50a.png)
