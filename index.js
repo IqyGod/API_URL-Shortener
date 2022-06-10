@@ -31,9 +31,8 @@ app.listen(port, function() {
 
 
 // 01 - set up database mongoose
-// mongodb url here : //mongodb+srv://Giselle:G@cluster0.im2ul.mongodb.net/?retryWrites=true&w=majority
-
-let uri = 'mongodb+srv://Giselle:G@cluster0.im2ul.mongodb.net/?retryWrites=true&w=majority'
+// mongodb url here : your link
+let uri = 'your link'
 mongoose.connect(uri, { useNewUrlParser: true, useUnifiedTopology: true })
 
 // 02 - create a model
